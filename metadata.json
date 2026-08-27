@@ -1,0 +1,6 @@
+{
+  "name": "Nossa Conquista",
+  "description": "App de metas e conquistas com painel administrativo separado para criação de metas deliberadas, cadastro de participantes, controle de aportes e modo visualizador para participantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
